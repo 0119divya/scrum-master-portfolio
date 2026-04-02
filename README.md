@@ -2,7 +2,7 @@
 
 This portfolio highlights selected Agile delivery improvement initiatives led across sprint execution environments within banking-domain technology teams.
 
-The case studies demonstrate practical Scrum Master contributions across:
+The case studies demonstrate my practical contributions across:
 
 - standup restructuring and execution discipline
 - sprint predictability improvement
