@@ -1,3 +1,26 @@
+# Scrum Master Portfolio – Agile Delivery Improvements
+
+This portfolio highlights selected Agile delivery improvement initiatives led across sprint execution environments within banking-domain technology teams.
+
+The case studies demonstrate practical Scrum Master contributions across:
+
+- standup restructuring and execution discipline
+- sprint predictability improvement
+- dependency tracking and coordination maturity
+- stakeholder visibility enhancement
+- cross-team delivery alignment
+
+These examples reflect structured facilitation approaches used to improve team collaboration, planning readiness, delivery transparency and sprint outcome reliability across multiple sprint cycles.
+
+---
+
+## Portfolio Case Studies Included
+
+1. Standup restructuring and sprint spillover reduction
+2. Sprint predictability improvement and planning maturity alignment
+3. Cross-team dependency coordination and stakeholder visibility improvements
+4. Agile delivery impact snapshot across sprint execution cycles
+
 # Standup Restructuring & Sprint Spillover Reduction Case Study
 
 ## Context
